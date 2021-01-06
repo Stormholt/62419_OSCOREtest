@@ -1,0 +1,15 @@
+C:\Users\Stormholt\Documents\GitHub\62419_OSCOREtest\CoAP(.NET)\bin\Debug\netcoreapp3.1\CoAP(.NET).exe
+C:\Users\Stormholt\Documents\GitHub\62419_OSCOREtest\CoAP(.NET)\bin\Debug\netcoreapp3.1\CoAP(.NET).deps.json
+C:\Users\Stormholt\Documents\GitHub\62419_OSCOREtest\CoAP(.NET)\bin\Debug\netcoreapp3.1\CoAP(.NET).runtimeconfig.json
+C:\Users\Stormholt\Documents\GitHub\62419_OSCOREtest\CoAP(.NET)\bin\Debug\netcoreapp3.1\CoAP(.NET).runtimeconfig.dev.json
+C:\Users\Stormholt\Documents\GitHub\62419_OSCOREtest\CoAP(.NET)\bin\Debug\netcoreapp3.1\CoAP(.NET).dll
+C:\Users\Stormholt\Documents\GitHub\62419_OSCOREtest\CoAP(.NET)\bin\Debug\netcoreapp3.1\CoAP(.NET).pdb
+C:\Users\Stormholt\Documents\GitHub\62419_OSCOREtest\CoAP(.NET)\bin\Debug\netcoreapp3.1\CoAP.NET.dll
+C:\Users\Stormholt\Documents\GitHub\62419_OSCOREtest\CoAP(.NET)\obj\Debug\netcoreapp3.1\CoAP(.NET).csprojAssemblyReference.cache
+C:\Users\Stormholt\Documents\GitHub\62419_OSCOREtest\CoAP(.NET)\obj\Debug\netcoreapp3.1\CoAP(.NET).AssemblyInfoInputs.cache
+C:\Users\Stormholt\Documents\GitHub\62419_OSCOREtest\CoAP(.NET)\obj\Debug\netcoreapp3.1\CoAP(.NET).AssemblyInfo.cs
+C:\Users\Stormholt\Documents\GitHub\62419_OSCOREtest\CoAP(.NET)\obj\Debug\netcoreapp3.1\CoAP(.NET).csproj.CoreCompileInputs.cache
+C:\Users\Stormholt\Documents\GitHub\62419_OSCOREtest\CoAP(.NET)\obj\Debug\netcoreapp3.1\CoAP(.NET).csproj.CopyComplete
+C:\Users\Stormholt\Documents\GitHub\62419_OSCOREtest\CoAP(.NET)\obj\Debug\netcoreapp3.1\CoAP(.NET).dll
+C:\Users\Stormholt\Documents\GitHub\62419_OSCOREtest\CoAP(.NET)\obj\Debug\netcoreapp3.1\CoAP(.NET).pdb
+C:\Users\Stormholt\Documents\GitHub\62419_OSCOREtest\CoAP(.NET)\obj\Debug\netcoreapp3.1\CoAP(.NET).genruntimeconfig.cache

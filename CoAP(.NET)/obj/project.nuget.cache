@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "FGMTwrcYa/DxrcY7yyh9cc/btyWr1OeF8gnLqLta8IHs1EnWarW8iTtoq4x1yfeqijfHyd6UsHK+RxVEyP7l0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Stormholt\\Documents\\GitHub\\62419_OSCOREtest\\CoAP(.NET)\\CoAP(.NET).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Stormholt\\.nuget\\packages\\coap\\1.1.0\\coap.1.1.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'CoAP 1.1.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "CoAP",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
