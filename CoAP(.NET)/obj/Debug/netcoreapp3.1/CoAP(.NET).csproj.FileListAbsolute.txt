@@ -4,7 +4,6 @@ C:\Users\Stormholt\Documents\GitHub\62419_OSCOREtest\CoAP(.NET)\bin\Debug\netcor
 C:\Users\Stormholt\Documents\GitHub\62419_OSCOREtest\CoAP(.NET)\bin\Debug\netcoreapp3.1\CoAP(.NET).runtimeconfig.dev.json
 C:\Users\Stormholt\Documents\GitHub\62419_OSCOREtest\CoAP(.NET)\bin\Debug\netcoreapp3.1\CoAP(.NET).dll
 C:\Users\Stormholt\Documents\GitHub\62419_OSCOREtest\CoAP(.NET)\bin\Debug\netcoreapp3.1\CoAP(.NET).pdb
-C:\Users\Stormholt\Documents\GitHub\62419_OSCOREtest\CoAP(.NET)\bin\Debug\netcoreapp3.1\CoAP.NET.dll
 C:\Users\Stormholt\Documents\GitHub\62419_OSCOREtest\CoAP(.NET)\obj\Debug\netcoreapp3.1\CoAP(.NET).csprojAssemblyReference.cache
 C:\Users\Stormholt\Documents\GitHub\62419_OSCOREtest\CoAP(.NET)\obj\Debug\netcoreapp3.1\CoAP(.NET).AssemblyInfoInputs.cache
 C:\Users\Stormholt\Documents\GitHub\62419_OSCOREtest\CoAP(.NET)\obj\Debug\netcoreapp3.1\CoAP(.NET).AssemblyInfo.cs
@@ -13,3 +12,8 @@ C:\Users\Stormholt\Documents\GitHub\62419_OSCOREtest\CoAP(.NET)\obj\Debug\netcor
 C:\Users\Stormholt\Documents\GitHub\62419_OSCOREtest\CoAP(.NET)\obj\Debug\netcoreapp3.1\CoAP(.NET).dll
 C:\Users\Stormholt\Documents\GitHub\62419_OSCOREtest\CoAP(.NET)\obj\Debug\netcoreapp3.1\CoAP(.NET).pdb
 C:\Users\Stormholt\Documents\GitHub\62419_OSCOREtest\CoAP(.NET)\obj\Debug\netcoreapp3.1\CoAP(.NET).genruntimeconfig.cache
+C:\Users\Stormholt\Documents\GitHub\62419_OSCOREtest\CoAP(.NET)\bin\Debug\netcoreapp3.1\CoAP.dll
+C:\Users\Stormholt\Documents\GitHub\62419_OSCOREtest\CoAP(.NET)\bin\Debug\netcoreapp3.1\COSE.dll
+C:\Users\Stormholt\Documents\GitHub\62419_OSCOREtest\CoAP(.NET)\bin\Debug\netcoreapp3.1\CBOR.dll
+C:\Users\Stormholt\Documents\GitHub\62419_OSCOREtest\CoAP(.NET)\bin\Debug\netcoreapp3.1\Numbers.dll
+C:\Users\Stormholt\Documents\GitHub\62419_OSCOREtest\CoAP(.NET)\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll

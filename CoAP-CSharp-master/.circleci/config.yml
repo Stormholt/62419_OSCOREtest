@@ -1,0 +1,19 @@
+version: 2
+jobs:
+  build:
+    docker:
+      - image: mcr.microsoft.com/dotnet/core/sdk:2.1
+
+    working_directory: ~/repo
+
+    steps:
+       - checkout
+
+       - run:
+           name: Get Examples
+           command: git clone --depth 1 https://github.com/cose-wg/Examples Regressions
+
+       - run:
+           name: Unit Tests
+           command: |
+              dotnet test --framework=netcoreapp2.0 CoAP.Std10.sln

@@ -40,9 +40,9 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
-            "CoAP": {
+            "Com.AugustCellars.CoAP": {
               "target": "Package",
-              "version": "[1.1.0, )"
+              "version": "[1.10.0, )"
             }
           },
           "imports": [
