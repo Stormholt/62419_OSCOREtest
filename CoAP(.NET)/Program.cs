@@ -130,7 +130,8 @@ namespace CoAP_.NET_
                     OscoreContext = SecurityContext.DeriveContext(secret, null, clientId, serverId)
                 };
                 Response r = client.Get();
-                Console.WriteLine(Utils.ToString(r));
+              //  Console.WriteLine();
+               // Console.WriteLine(Utils.ToString(r));
                 // Assert.IsNotNull(r);
                 // Assert.AreEqual("/abc", r.PayloadString);
             }
@@ -140,8 +141,8 @@ namespace CoAP_.NET_
                 CoAPEndPoint endpoint = new CoAPEndPoint(0);
                 _server = new CoapServer();
 
-                //            _resource = new StorageResource(TARGET, CONTENT_1);
-                //           _server.Add(_resource);
+                //           _resource = new StorageResource(TARGET, CONTENT_1);
+              //             _server.Add(_resource);
 
                 Resource r2 = new HelloWorldResource();
                 _server.Add(r2);
